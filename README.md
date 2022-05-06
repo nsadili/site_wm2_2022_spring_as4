@@ -7,7 +7,7 @@ In this assignment, You are required to write some tests for the application you
 
 <h4> JSP related: </h4>
 <ul>
-  <li> Unit tests - 70% </li>
+  <li> Unit tests - 80% </li>
   <li> Mockito - 10% </li>
   <li> Selenium - 10% </li>
 </ul>
